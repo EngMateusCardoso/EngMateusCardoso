@@ -5,12 +5,16 @@ BackEnd da versão final em Java: https://github.com/EngMateusCardoso/api-amorna
 FrontEnd da versão final em React: https://github.com/EngMateusCardoso/amor-na-pele_entrega-final <br/>
 Versão em ASP.NET core MVC: https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02 <br/>
 ##### Projeto Recodifique Viagens
-BackEnd da versão final em Java: https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring
-FrontEnd da versão final em React: https://github.com/EngMateusCardoso/recodifiqueviagens-react
-React sem backend: https://github.com/EngMateusCardoso/recodifique_viagens-recodepro_modulo04
-Versão em ASP.NET core MVC: https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC
-Banco de Dados Java JDBC: https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD
-HTML, CSS e JS puro: https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode
+BackEnd da versão final em Java: https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring <br/>
+FrontEnd da versão final em React: https://github.com/EngMateusCardoso/recodifiqueviagens-react <br/>
+React sem backend: https://github.com/EngMateusCardoso/recodifique_viagens-recodepro_modulo04 <br/>
+Versão em ASP.NET core MVC: https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC <br/>
+Banco de Dados Java JDBC: https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD <br/>
+HTML, CSS e JS puro: https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode <br/>
+##### Projeto em Windows Form app .NET
+https://github.com/EngMateusCardoso/Windows_Form_App_.NET_CRUD_SummonerRegistration
+##### Projeto Generativo Dynamo (TCC)
+https://github.com/EngMateusCardoso/USO_DO_PROJETO_GENERATIVO_COMO_FERRAMENTA_DE_BUSCA_DE_SOLUCOES_DE_PROJETO
 
 
 <div align="center">
