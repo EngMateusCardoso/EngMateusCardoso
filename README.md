@@ -3,7 +3,16 @@
 ##### Projeto Amor Na Pele
 BackEnd da versão final em Java: https://github.com/EngMateusCardoso/api-amornapele-recode <br/>
 FrontEnd da versão final em React: https://github.com/EngMateusCardoso/amor-na-pele_entrega-final <br/>
-Versão em ASP.NET : 
+Versão em ASP.NET core MVC: https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02 <br/>
+##### Projeto Recodifique Viagens
+BackEnd da versão final em Java: https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring
+FrontEnd da versão final em React: https://github.com/EngMateusCardoso/recodifiqueviagens-react
+React sem backend: https://github.com/EngMateusCardoso/recodifique_viagens-recodepro_modulo04
+Versão em ASP.NET core MVC: https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC
+Banco de Dados Java JDBC: https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD
+HTML, CSS e JS puro: https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode
+
+
 <div align="center">
 
   <div align="center">
