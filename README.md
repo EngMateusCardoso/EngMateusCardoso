@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Meus repositórios:
+#### Navegue aqui por meus repositórios:
 ##### Projeto Amor Na Pele
 BackEnd da versão final em Java: https://github.com/EngMateusCardoso/api-amornapele-recode <br/>
 FrontEnd da versão final em React: https://github.com/EngMateusCardoso/amor-na-pele_entrega-final <br/>
