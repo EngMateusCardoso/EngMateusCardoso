@@ -15,7 +15,8 @@ HTML, CSS e JS puro: https://github.com/EngMateusCardoso/Recodifique_Viagens-Pro
 https://github.com/EngMateusCardoso/Windows_Form_App_.NET_CRUD_SummonerRegistration
 ##### Projeto Generativo Dynamo (TCC)
 https://github.com/EngMateusCardoso/USO_DO_PROJETO_GENERATIVO_COMO_FERRAMENTA_DE_BUSCA_DE_SOLUCOES_DE_PROJETO
-
+##### Resumos sobre Banco de Dados
+https://github.com/EngMateusCardoso/Resumos_BD_Recode
 
 <div align="center">
 
