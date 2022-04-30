@@ -1,20 +1,20 @@
 ## Hi there 👋
-## Navegue pelos meus repositórios:
+## My projects
 ### Amor Na Pele
-[BackEnd em Spring Boot](https://github.com/EngMateusCardoso/api-amornapele-recode) <br/>
-[FrontEnd em React](https://github.com/EngMateusCardoso/amor-na-pele_entrega-final) <br/>
-[Versão em ASP.NET core MVC](https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02) <br/>
+[BackEnd using Spring Boot](https://github.com/EngMateusCardoso/api-amornapele-recode) <br/>
+[FrontEnd using React](https://github.com/EngMateusCardoso/amor-na-pele_entrega-final) <br/>
+[Using ASP.NET core MVC](https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02) <br/>
 ### Recodifique Viagens
-[BackEnd em Spring Boot](https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring) <br/>
-[FrontEnd em React](https://github.com/EngMateusCardoso/recodifiqueviagens-react) <br/>
-[Versão em ASP.NET core MVC](https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC) <br/>
-[Banco de Dados Java JDBC](https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD) <br/>
-[HTML, CSS e JS puro](https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode) <br/>
+[BackEnd using Spring Boot](https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring) <br/>
+[FrontEnd using React](https://github.com/EngMateusCardoso/recodifiqueviagens-react) <br/>
+[Using ASP.NET core MVC](https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC) <br/>
+[Java Database Connectivity JDBC](https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD) <br/>
+[HTML, CSS e JS pure](https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode) <br/>
 ### Summoner Registration
-[Projeto em Windows Form app .NET](https://github.com/EngMateusCardoso/Windows_Form_App_.NET_CRUD_SummonerRegistration)
-### Projeto Generativo / Algoritmo genético (TCC)
+[Project using Windows Form app .NET](https://github.com/EngMateusCardoso/Windows_Form_App_.NET_CRUD_SummonerRegistration)
+### Generative Design / Genetic Algorithm (TCC)
 [Dynamo/C#/Python](https://github.com/EngMateusCardoso/USO_DO_PROJETO_GENERATIVO_COMO_FERRAMENTA_DE_BUSCA_DE_SOLUCOES_DE_PROJETO)
-##### Resumos sobre Banco de Dados
+### Database notes
 [SQL Server Management Studio/MySQL/MongoDB](https://github.com/EngMateusCardoso/Resumos_BD_Recode)
 
 <div align="center">
