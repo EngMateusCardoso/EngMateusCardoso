@@ -1,10 +1,10 @@
 ## Hi there 👋
 ## Navegue pelos meus repositórios:
-### Projeto Amor Na Pele
+### Amor Na Pele
 [BackEnd em Spring Boot](https://github.com/EngMateusCardoso/api-amornapele-recode) <br/>
 [FrontEnd em React](https://github.com/EngMateusCardoso/amor-na-pele_entrega-final) <br/>
 [Versão em ASP.NET core MVC](https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02) <br/>
-### Projeto Recodifique Viagens
+### Recodifique Viagens
 [BackEnd em Spring Boot](https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring) <br/>
 [FrontEnd em React](https://github.com/EngMateusCardoso/recodifiqueviagens-react) <br/>
 [Versão em ASP.NET core MVC](https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC) <br/>
