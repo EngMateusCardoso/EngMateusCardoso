@@ -52,8 +52,6 @@
          
 </div>
 
-[![matcardo's 42 stats](https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
-[![matcardo's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2555124)](https://github.com/JaeSeoKim/badge42)
 <div>
 <a href="https://github.com/EngMateusCardoso">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngMateusCardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
