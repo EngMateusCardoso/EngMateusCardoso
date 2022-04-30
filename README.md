@@ -1,15 +1,15 @@
 ### Hi there 👋
 #### Navegue pelos meus repositórios:
 ##### Projeto Amor Na Pele
-[BackEnd da versão final em Java:](https://github.com/EngMateusCardoso/api-amornapele-recode) <br/>
-FrontEnd da versão final em React: https://github.com/EngMateusCardoso/amor-na-pele_entrega-final <br/>
-Versão em ASP.NET core MVC: https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02 <br/>
+[BackEnd em Spring Boot:](https://github.com/EngMateusCardoso/api-amornapele-recode) <br/>
+[FrontEnd em React:](https://github.com/EngMateusCardoso/amor-na-pele_entrega-final) <br/>
+[Versão em ASP.NET core MVC:](https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02) <br/>
 ##### Projeto Recodifique Viagens
-BackEnd da versão final em Java: https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring <br/>
-FrontEnd da versão final em React: https://github.com/EngMateusCardoso/recodifiqueviagens-react <br/>
-Versão em ASP.NET core MVC: https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC <br/>
-Banco de Dados Java JDBC: https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD <br/>
-HTML, CSS e JS puro: https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode <br/>
+[BackEnd em Spring Boot:](https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring) <br/>
+[FrontEnd em React:](https://github.com/EngMateusCardoso/recodifiqueviagens-react) <br/>
+[Versão em ASP.NET core MVC:](https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC) <br/>
+[Banco de Dados Java JDBC:](https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD) <br/>
+[HTML, CSS e JS puro:](https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode) <br/>
 ##### Projeto em Windows Form app .NET
 https://github.com/EngMateusCardoso/Windows_Form_App_.NET_CRUD_SummonerRegistration
 ##### Projeto Generativo Dynamo (TCC)
