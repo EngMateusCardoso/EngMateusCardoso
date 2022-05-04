@@ -2,12 +2,12 @@
 ## My projects
 ### Amor Na Pele
 [BackEnd using Spring Boot](https://github.com/EngMateusCardoso/api-amornapele-recode) <br/>
-[FrontEnd using React](https://github.com/EngMateusCardoso/amor-na-pele_entrega-final) <br/>
-[Using ASP.NET core MVC](https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02) <br/>
+[FrontEnd using React and Reactstrap](https://github.com/EngMateusCardoso/amor-na-pele_entrega-final) <br/>
+[Using ASP.NET core MVC and Bootstrap](https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02) <br/>
 ### Recodifique Viagens
 [BackEnd using Spring Boot](https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring) <br/>
-[FrontEnd using React](https://github.com/EngMateusCardoso/recodifiqueviagens-react) <br/>
-[Using ASP.NET core MVC](https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC) <br/>
+[FrontEnd using React and Reactstrap](https://github.com/EngMateusCardoso/recodifiqueviagens-react) <br/>
+[Using ASP.NET core MVC and Bootstrap](https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC) <br/>
 [Java Database Connectivity JDBC](https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD) <br/>
 [HTML, CSS e JS pure](https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode) <br/>
 ### Summoner Registration
