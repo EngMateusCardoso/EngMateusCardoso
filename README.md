@@ -18,7 +18,7 @@
 [SQL Server Management Studio/MySQL/MongoDB](https://github.com/EngMateusCardoso/Resumos_BD_Recode)
 ## 42 cursus
 <div align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/stats?cursusId=21&coalitionId=piscine" alt="matcardo's 42 stats" /></a>
+<a href="https://profile.intra.42.fr/users/matcardo"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/stats?cursusId=21&coalitionId=piscine" alt="matcardo's 42 stats" /></a>
 </div>
 <br/>
 <div align="center">
