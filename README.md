@@ -29,12 +29,9 @@
 <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2607916" alt="matcardo's 42 ft_printf Score" /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus">![image](https://user-images.githubusercontent.com/93548287/173495377-5eac6314-c3cb-4bdc-a05b-b5c684bcd54d.png)
-</a>
-  <a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus">![image](https://user-images.githubusercontent.com/93548287/173495438-a73ba2f4-21d9-42be-b3d1-737d739d08cd.png)
-</a>
-  <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus">![image](https://user-images.githubusercontent.com/93548287/173495448-13baf834-99ac-4bf6-8876-300109a832a2.png)
-</a>
+  <a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus">a</a>
+  <a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus">b</a>
+  <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus">c</a>
 </div>
 <br/>
 <!--<div align="center">
