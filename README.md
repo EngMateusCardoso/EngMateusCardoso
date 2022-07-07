@@ -16,24 +16,30 @@
 [Dynamo/C#/Python](https://github.com/EngMateusCardoso/USO_DO_PROJETO_GENERATIVO_COMO_FERRAMENTA_DE_BUSCA_DE_SOLUCOES_DE_PROJETO)
 ### Database notes
 [SQL Server Management Studio/MySQL/MongoDB](https://github.com/EngMateusCardoso/Resumos_BD_Recode)
+
 ## 42 cursus
+
 <!--42 cursus main painel-->
 <div align="center">
 <a href="https://profile.intra.42.fr/users/matcardo"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/stats?cursusId=21&coalitionId=piscine" alt="matcardo's 42 stats" /></a>
 </div>
 <br/>
-<!--42 cursus repositories-->
+
+<!--42 cursus repositories flags for graduated-->
 <div align="center">
 <a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2555124" alt="matcardo's 42 Libft Score" /></a>
 <a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2576876" alt="matcardo's 42 get_next_line Score" /></a>
 <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2607916" alt="matcardo's 42 ft_printf Score" /></a>
 </div>
+
+<!--42 cursus repositories projects-->
 <div align="center">
   <a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/libft.png"></a>
   <a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/get_next_line.png"></a>
   <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/ft_printf.png"></a>
 </div>
 <br/>
+
 <!--<div align="center">
 
   <div align="center">
