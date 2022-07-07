@@ -25,11 +25,13 @@
 </div>
 <br/>
 
-<!--42 cursus repositories flags for graduated-->
+<!--42 cursus repositories Scores-->
 <div align="center">
 <a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2555124" alt="matcardo's 42 Libft Score" /></a>
 <a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2576876" alt="matcardo's 42 get_next_line Score" /></a>
 <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2607916" alt="matcardo's 42 ft_printf Score" /></a>
+<a href="https://github.com/EngMateusCardoso/4-Born2beroot-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2618467" alt="matcardo's 42 Born2beroot Score" /></a>
+<a href="https://github.com/EngMateusCardoso/3-FRACT-OL-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2648383" alt="matcardo's 42 Fract-ol Score" /></a>
 </div>
 
 <!--42 cursus repositories projects-->
@@ -37,6 +39,8 @@
   <a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/libft.png"></a>
   <a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/get_next_line.png"></a>
   <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/ft_printf.png"></a>
+  <a href="https://github.com/EngMateusCardoso/3-Born2beroot-42cursus"><img src="https://user-images.githubusercontent.com/93548287/177801771-50c506d0-2808-4a73-afb8-02af3f7686f1.png"></a>
+  <a href="https://github.com/EngMateusCardoso/3-FRACT-OL-42cursus"><img src="https://user-images.githubusercontent.com/93548287/177801954-3d1b79dc-47ef-4492-92e5-768816507300.png"></a>
 </div>
 <br/>
 
