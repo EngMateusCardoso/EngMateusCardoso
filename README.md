@@ -40,7 +40,8 @@
   <a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/get_next_line.png"></a>
   <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/ft_printf.png"></a>
   <a href="https://github.com/EngMateusCardoso/4-Born2beroot-42cursus"><img src="https://user-images.githubusercontent.com/93548287/177801771-50c506d0-2808-4a73-afb8-02af3f7686f1.png"></a>
-  <a href="https://github.com/EngMateusCardoso/5-FRACT-OL-42cursus"><img src="https://user-images.githubusercontent.com/93548287/177801954-3d1b79dc-47ef-4492-92e5-768816507300.png"></a>
+  <a href="https://github.com/EngMateusCardoso/5-FRACT-OL-42cursus"><img src="https://user-images.githubusercontent.com/93548287/179062849-d4e55391-34e0-404e-b886-58ef50e356d4.png"></a>
+
 </div>
 <br/>
 
