@@ -32,6 +32,7 @@
 <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2607916" alt="matcardo's 42 ft_printf Score" /></a>
 <a href="https://github.com/EngMateusCardoso/4-Born2beroot-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2618467" alt="matcardo's 42 Born2beroot Score" /></a>
 <a href="https://github.com/EngMateusCardoso/3-FRACT-OL-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2648383" alt="matcardo's 42 Fract-ol Score" /></a>
+<a href="https://github.com/EngMateusCardoso/6-PIPEX-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2665507" alt="matcardo's 42 pipex Score" /></a>
 </div>
 
 <!--42 cursus repositories projects-->
@@ -41,7 +42,7 @@
   <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/ft_printf.png"></a>
   <a href="https://github.com/EngMateusCardoso/4-Born2beroot-42cursus"><img src="https://user-images.githubusercontent.com/93548287/177801771-50c506d0-2808-4a73-afb8-02af3f7686f1.png"></a>
   <a href="https://github.com/EngMateusCardoso/5-FRACT-OL-42cursus"><img src="https://user-images.githubusercontent.com/93548287/179062849-d4e55391-34e0-404e-b886-58ef50e356d4.png"></a>
-
+  <a href="https://github.com/EngMateusCardoso/6-PIPEX-42cursus"><img src="https://user-images.githubusercontent.com/93548287/191578022-4987ba1a-a963-4ece-8033-d0fd3be65569.png"></a>
 </div>
 <br/>
 
