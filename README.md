@@ -25,6 +25,12 @@
 </div>
 <br/>
 
+<!--42 cursus Fase 1 img-->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/93548287/191753025-531e00e8-daf2-4802-994f-6caa2688efe4.png">
+</div>
+<br/>
+
 <!--42 cursus repositories Scores-->
 <div align="center">
 <a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2555124" alt="matcardo's 42 Libft Score" /></a>
