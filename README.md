@@ -26,6 +26,7 @@
 <br/>
 
 <!--42 cursus Fase 1 img-->
+### Fase 1
 <div align="center">
 <img src="https://user-images.githubusercontent.com/93548287/191753025-531e00e8-daf2-4802-994f-6caa2688efe4.png">
 </div>
@@ -62,6 +63,7 @@
 <br/>
 
 <!--42 cursus Fase 2 img-->
+### Fase 2
 <div align="center">
 <img src="https://user-images.githubusercontent.com/93548287/191812910-dfdf0471-1d38-4932-b5ca-e2ccaa2c2d16.png">
 </div>
