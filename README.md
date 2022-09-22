@@ -61,6 +61,11 @@
 </div>
 <br/>
 
+<!--42 cursus Fase 2 img-->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/93548287/191812910-dfdf0471-1d38-4932-b5ca-e2ccaa2c2d16.png">
+</div>
+<br/>
 
 <!--<div align="center">
 
