@@ -21,22 +21,22 @@
 
 <!--42 cursus main painel-->
 <div align="center">
-<a href="https://profile.intra.42.fr/users/matcardo"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/stats?cursusId=21&coalitionId=piscine" alt="matcardo's 42 stats" /></a>
+  <a href="https://profile.intra.42.fr/users/matcardo"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/stats?cursusId=21&coalitionId=piscine" alt="matcardo's 42 stats" /></a>
 </div>
 <br/>
 
 <!--42 cursus Fase 1 img-->
 ### Fase 1
 <div align="center">
-<img src="https://user-images.githubusercontent.com/93548287/191753025-531e00e8-daf2-4802-994f-6caa2688efe4.png">
+  <img src="https://user-images.githubusercontent.com/93548287/191753025-531e00e8-daf2-4802-994f-6caa2688efe4.png">
 </div>
 <br/>
 
 <!--42 cursus repositories Scores-->
 <div align="center">
-<a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2555124" alt="matcardo's 42 Libft Score" /></a>
-<a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2576876" alt="matcardo's 42 get_next_line Score" /></a>
-<a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2607916" alt="matcardo's 42 ft_printf Score" /></a>
+  <a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2555124" alt="matcardo's 42 Libft Score" /></a>
+  <a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2576876" alt="matcardo's 42 get_next_line Score" /></a>
+  <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2607916" alt="matcardo's 42 ft_printf Score" /></a>
 </div>
 
 <!--42 cursus repositories projects-->
@@ -49,9 +49,9 @@
 
 <!--42 cursus repositories Scores-->
 <div align="center">
-<a href="https://github.com/EngMateusCardoso/4-Born2beroot-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2618467" alt="matcardo's 42 Born2beroot Score" /></a>
-<a href="https://github.com/EngMateusCardoso/3-FRACT-OL-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2648383" alt="matcardo's 42 Fract-ol Score" /></a>
-<a href="https://github.com/EngMateusCardoso/6-PIPEX-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2665507" alt="matcardo's 42 pipex Score" /></a>
+  <a href="https://github.com/EngMateusCardoso/4-Born2beroot-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2618467" alt="matcardo's 42 Born2beroot Score" /></a>
+  <a href="https://github.com/EngMateusCardoso/3-FRACT-OL-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2648383" alt="matcardo's 42 Fract-ol Score" /></a>
+  <a href="https://github.com/EngMateusCardoso/6-PIPEX-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2665507" alt="matcardo's 42 pipex Score" /></a>
 </div>
 
 <!--42 cursus repositories projects-->
@@ -65,7 +65,7 @@
 <!--42 cursus Fase 2 img-->
 ### Fase 2
 <div align="center">
-<img src="https://user-images.githubusercontent.com/93548287/191812910-dfdf0471-1d38-4932-b5ca-e2ccaa2c2d16.png">
+  <img src="https://user-images.githubusercontent.com/93548287/191812910-dfdf0471-1d38-4932-b5ca-e2ccaa2c2d16.png">
 </div>
 <br/>
 
@@ -116,9 +116,9 @@
 </div>-->
 
 <div align="center">
-<a align="center" href="https://github.com/EngMateusCardoso">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngMateusCardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngMateusCardoso&layout=compact&langs_count=7&theme=dracula"/>
+  <a align="center" href="https://github.com/EngMateusCardoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngMateusCardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngMateusCardoso&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
  
  ![Snake animation](https://github.com/EngMateusCardoso/EngMateusCardoso/blob/output/github-contribution-grid-snake.svg)
