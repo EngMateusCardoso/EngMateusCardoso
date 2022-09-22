@@ -69,6 +69,17 @@
 </div>
 <br/>
 
+<!--42 cursus repositories Scores-->
+<div align="center">
+  <a href="https://github.com/EngMateusCardoso/7-Push_swap-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2786608" alt="matcardo's 42 push_swap Score" /></a>
+</div>
+
+<!--42 cursus repositories projects-->
+<div align="center">
+  <a href="https://github.com/EngMateusCardoso/7-Push_swap-42cursus"><img src="https://user-images.githubusercontent.com/93548287/191818803-16053759-3570-40a0-9b8e-904e3931bd98.png"></a>
+</div>
+<br/>
+
 <!--<div align="center">
 
   <div align="center">
