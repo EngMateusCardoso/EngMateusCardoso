@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://komarev.com/ghpvc/?username=EngMateusCardoso&logoColor=white&style=for-the-badge)
 ## My projects
 ### Amor Na Pele
 [BackEnd using Spring Boot](https://github.com/EngMateusCardoso/api-amornapele-recode) <br/>
