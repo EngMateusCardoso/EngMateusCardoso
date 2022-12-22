@@ -11,12 +11,17 @@
 [Using ASP.NET core MVC and Bootstrap](https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC) <br/>
 [Java Database Connectivity JDBC](https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD) <br/>
 [HTML, CSS e JS pure](https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode) <br/>
+### Task Manager
+[Project using React in TypeScript](https://github.com/EngMateusCardoso/task_manager-React-TS)
 ### Summoner Registration
 [Project using Windows Form app .NET](https://github.com/EngMateusCardoso/Windows_Form_App_.NET_CRUD_SummonerRegistration)
 ### Generative Design / Genetic Algorithm (TCC)
 [Dynamo/C#/Python](https://github.com/EngMateusCardoso/USO_DO_PROJETO_GENERATIVO_COMO_FERRAMENTA_DE_BUSCA_DE_SOLUCOES_DE_PROJETO)
-### Database notes
+### Notes
+#### Database notes
 [SQL Server Management Studio/MySQL/MongoDB](https://github.com/EngMateusCardoso/Resumos_BD_Recode)
+#### TypeScript notes
+[Resume TypeScript exercises](https://github.com/EngMateusCardoso/TypeScript_Exercises)
 
 ## 42 cursus
 
