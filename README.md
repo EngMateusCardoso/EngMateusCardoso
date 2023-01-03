@@ -12,7 +12,7 @@
 [Java Database Connectivity JDBC](https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD) <br/>
 [HTML, CSS e JS pure](https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode) <br/>
 ### Project using React in TypeScript
-[Task Manager](https://github.com/EngMateusCardoso/task_manager-React-TS)
+[Task Manager](https://github.com/EngMateusCardoso/task_manager-React-TS) <br/>
 [Restaurant menu](https://github.com/EngMateusCardoso/retaurant-menu_React-TS)
 ### Summoner Registration
 [Project using Windows Form app .NET](https://github.com/EngMateusCardoso/Windows_Form_App_.NET_CRUD_SummonerRegistration)
