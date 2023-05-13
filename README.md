@@ -1,28 +1,5 @@
 ## Hi there 👋
 ![image](https://komarev.com/ghpvc/?username=EngMateusCardoso&logoColor=white&style=for-the-badge)
-## My projects
-### Amor Na Pele
-[BackEnd using Spring Boot](https://github.com/EngMateusCardoso/api-amornapele-recode) <br/>
-[FrontEnd using React and Reactstrap](https://github.com/EngMateusCardoso/amor-na-pele_entrega-final) <br/>
-[Using ASP.NET core MVC and Bootstrap](https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02) <br/>
-### Recodifique Viagens
-[BackEnd using Spring Boot](https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring) <br/>
-[FrontEnd using React and Reactstrap](https://github.com/EngMateusCardoso/recodifiqueviagens-react) <br/>
-[Using ASP.NET core MVC and Bootstrap](https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC) <br/>
-[Java Database Connectivity JDBC](https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD) <br/>
-[HTML, CSS e JS pure](https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode) <br/>
-### Project using React in TypeScript
-[Task Manager](https://github.com/EngMateusCardoso/task_manager-React-TS) <br/>
-[Restaurant menu](https://github.com/EngMateusCardoso/retaurant-menu_React-TS)
-### Summoner Registration
-[Project using Windows Form app .NET](https://github.com/EngMateusCardoso/Windows_Form_App_.NET_CRUD_SummonerRegistration)
-### Generative Design / Genetic Algorithm (TCC)
-[Dynamo/C#/Python](https://github.com/EngMateusCardoso/USO_DO_PROJETO_GENERATIVO_COMO_FERRAMENTA_DE_BUSCA_DE_SOLUCOES_DE_PROJETO)
-### Notes
-#### Database notes
-[SQL Server Management Studio/MySQL/MongoDB](https://github.com/EngMateusCardoso/Resumos_BD_Recode)
-#### TypeScript notes
-[Resume TypeScript exercises](https://github.com/EngMateusCardoso/TypeScript_Exercises)
 
 ## 42 cursus
 
@@ -121,6 +98,29 @@
   <br/>    
          
 </div>-->
+## My projects
+### Amor Na Pele
+[BackEnd using Spring Boot](https://github.com/EngMateusCardoso/api-amornapele-recode) <br/>
+[FrontEnd using React and Reactstrap](https://github.com/EngMateusCardoso/amor-na-pele_entrega-final) <br/>
+[Using ASP.NET core MVC and Bootstrap](https://github.com/EngMateusCardoso/Projeto_RecodePro_Squaud09_Entrega02) <br/>
+### Recodifique Viagens
+[BackEnd using Spring Boot](https://github.com/EngMateusCardoso/recodifiqueviagens-api-spring) <br/>
+[FrontEnd using React and Reactstrap](https://github.com/EngMateusCardoso/recodifiqueviagens-react) <br/>
+[Using ASP.NET core MVC and Bootstrap](https://github.com/EngMateusCardoso/Aplicacao_WEB_ASP.NET_Core_MVC) <br/>
+[Java Database Connectivity JDBC](https://github.com/EngMateusCardoso/Projeto_recodepro_modulo04_JavaBD) <br/>
+[HTML, CSS e JS pure](https://github.com/EngMateusCardoso/Recodifique_Viagens-Projeto_Recode) <br/>
+### Project using React in TypeScript
+[Task Manager](https://github.com/EngMateusCardoso/task_manager-React-TS) <br/>
+[Restaurant menu](https://github.com/EngMateusCardoso/retaurant-menu_React-TS)
+### Summoner Registration
+[Project using Windows Form app .NET](https://github.com/EngMateusCardoso/Windows_Form_App_.NET_CRUD_SummonerRegistration)
+### Generative Design / Genetic Algorithm (TCC)
+[Dynamo/C#/Python](https://github.com/EngMateusCardoso/USO_DO_PROJETO_GENERATIVO_COMO_FERRAMENTA_DE_BUSCA_DE_SOLUCOES_DE_PROJETO)
+### Notes
+#### Database notes
+[SQL Server Management Studio/MySQL/MongoDB](https://github.com/EngMateusCardoso/Resumos_BD_Recode)
+#### TypeScript notes
+[Resume TypeScript exercises](https://github.com/EngMateusCardoso/TypeScript_Exercises)
 
 <div align="center">
   <a align="center" href="https://github.com/EngMateusCardoso">
