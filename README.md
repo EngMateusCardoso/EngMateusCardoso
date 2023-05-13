@@ -56,11 +56,15 @@
 <!--42 cursus repositories Scores-->
 <div align="center">
   <a href="https://github.com/EngMateusCardoso/7-Push_swap-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2786608" alt="matcardo's 42 push_swap Score" /></a>
+  <a href="https://github.com/EngMateusCardoso/8-Minishell-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2858700" alt="matcardo's 42 minishell Score" /></a>
+  <a href="https://github.com/EngMateusCardoso/9-Philosophers-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/3005021" alt="matcardo's 42 Philosophers Score" /></a>
 </div>
 
 <!--42 cursus repositories projects-->
 <div align="center">
   <a href="https://github.com/EngMateusCardoso/7-Push_swap-42cursus"><img src="https://user-images.githubusercontent.com/93548287/191818803-16053759-3570-40a0-9b8e-904e3931bd98.png"></a>
+    <a href="https://github.com/EngMateusCardoso/8-Minishell-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/assets/93548287/d2058e6a-ba61-42f0-b0d7-0aeb19c44a89"></a>
+    <a href="https://github.com/EngMateusCardoso/9-Philosophers-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/assets/93548287/86d92fb8-da50-455a-adaf-66b44c1574f4"></a>
 </div>
 <br/>
 
