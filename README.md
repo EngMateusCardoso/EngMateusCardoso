@@ -4,11 +4,11 @@
 ## 42 cursus
 
 <!--42 cursus main painel-->
-<div align="center">
+<!--<div align="center">
   <a href="https://profile.intra.42.fr/users/matcardo"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/stats?cursusId=21&coalitionId=piscine" alt="matcardo's 42 stats" /></a>
 </div>
-<br/>
-
+<br/> -->
+click on the project icon to open the repository
 <!--42 cursus Fase 1 img-->
 ### Level 1
 <div align="center">
@@ -17,11 +17,11 @@
 <br/>
 
 <!--42 cursus repositories Scores-->
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2555124" alt="matcardo's 42 Libft Score" /></a>
   <a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2576876" alt="matcardo's 42 get_next_line Score" /></a>
   <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2607916" alt="matcardo's 42 ft_printf Score" /></a>
-</div>
+</div>-->
 
 <!--42 cursus repositories projects-->
 <div align="center">
@@ -32,11 +32,11 @@
 <br/>
 
 <!--42 cursus repositories Scores-->
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/EngMateusCardoso/4-Born2beroot-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2618467" alt="matcardo's 42 Born2beroot Score" /></a>
   <a href="https://github.com/EngMateusCardoso/3-FRACT-OL-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2648383" alt="matcardo's 42 Fract-ol Score" /></a>
   <a href="https://github.com/EngMateusCardoso/6-PIPEX-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2665507" alt="matcardo's 42 pipex Score" /></a>
-</div>
+</div>-->
 
 <!--42 cursus repositories projects-->
 <div align="center">
@@ -54,11 +54,11 @@
 <br/>
 
 <!--42 cursus repositories Scores-->
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/EngMateusCardoso/7-Push_swap-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2786608" alt="matcardo's 42 push_swap Score" /></a>
   <a href="https://github.com/EngMateusCardoso/8-Minishell-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2858700" alt="matcardo's 42 minishell Score" /></a>
   <a href="https://github.com/EngMateusCardoso/9-Philosophers-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/3005021" alt="matcardo's 42 Philosophers Score" /></a>
-</div>
+</div>-->
 
 <!--42 cursus repositories projects-->
 <div align="center">
