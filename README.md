@@ -23,7 +23,7 @@ click on the project icon to open the repository
   <a href="https://github.com/EngMateusCardoso/3-FT_PRINTF-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2607916" alt="matcardo's 42 ft_printf Score" /></a>
 </div>-->
 
-<!--42 cursus repositories projects-->
+<!--42 courses repositories projects-->
 <div align="center">
   <a href="https://github.com/EngMateusCardoso/1-LIBFT-42Cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/libft.png"></a>
   <a href="https://github.com/EngMateusCardoso/2-GET_NEXT_LINE-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/blob/main/get_next_line.png"></a>
@@ -31,7 +31,7 @@ click on the project icon to open the repository
 </div>
 <br/>
 
-<!--42 cursus repositories Scores-->
+<!--42 courses repositories Scores-->
 <!--<div align="center">
   <a href="https://github.com/EngMateusCardoso/4-Born2beroot-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2618467" alt="matcardo's 42 Born2beroot Score" /></a>
   <a href="https://github.com/EngMateusCardoso/3-FRACT-OL-42cursus"><img src="https://badge42.vercel.app/api/v2/cl2lzeffr017709mnp9905hou/project/2648383" alt="matcardo's 42 Fract-ol Score" /></a>
@@ -62,11 +62,18 @@ click on the project icon to open the repository
 
 <!--42 cursus repositories projects-->
 <div align="center">
-  <a href="https://github.com/EngMateusCardoso/7-Push_swap-42cursus"><img src="https://user-images.githubusercontent.com/93548287/191818803-16053759-3570-40a0-9b8e-904e3931bd98.png"></a>
+    <a href="https://github.com/EngMateusCardoso/7-Push_swap-42cursus"><img src="https://user-images.githubusercontent.com/93548287/191818803-16053759-3570-40a0-9b8e-904e3931bd98.png"></a>
     <a href="https://github.com/EngMateusCardoso/8-Minishell-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/assets/93548287/d2058e6a-ba61-42f0-b0d7-0aeb19c44a89"></a>
     <a href="https://github.com/EngMateusCardoso/9-Philosophers-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/assets/93548287/86d92fb8-da50-455a-adaf-66b44c1574f4"></a>
 </div>
 <br/>
+
+<div align="center">
+  <a href="https://github.com/EngMateusCardoso/10-Net_Practice-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/assets/93548287/aa025871-b99c-4047-84ca-0f85fc370783"></a>
+  <a href="https://github.com/EngMateusCardoso/11-cub3D-42cursus"><img src="https://github.com/EngMateusCardoso/EngMateusCardoso/assets/93548287/6cfd9121-32d5-4655-9eb3-1bd5ffc4ddf9"></a>
+</div>
+<br/>
+### Level 3 ...
 
 <!--<div align="center">
 
